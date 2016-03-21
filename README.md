@@ -3,9 +3,9 @@
 This is my second year C programming project based on the game master mind. It will show my basic understanding of the C programming language.
 
 ### How to play
->The game itself is played by two players normaly, in this instance it is against the computer. The aim of the game is to beat the mastermind.
->The master mind chooses 4 colours and the player has to guess the right colours.
->The player gets a certain number of attempts to get the combination right.
+The game itself is played by two players normaly, in this instance it is against the computer. The aim of the game is to beat the mastermind.
+The master mind chooses 4 colours and the player has to guess the right colours.
+The player gets a certain number of attempts to get the combination right.
 
 ### Features
 
