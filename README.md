@@ -8,7 +8,13 @@ The master mind chooses 4 colours and the player has to guess the right colours.
 The player gets a certain number of attempts to get the combination right.
 
 ### Features
-
 - The game has 3 modes easy, medium and hard.
 - The main menu lets you choose the different modes and has an options screen to explain how to play.
 - The player can enter how many times they want to attempt to guess the combination. 
+
+### Known issues
+>There are some issues with the game detecting if the right colour has been guessed by the player.
+
+>The UI is also a little buggy but other than that the game works.
+
+>Currently there are only 2 modes working.
